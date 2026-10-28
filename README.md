@@ -16,4 +16,4 @@
 ### 📫 Как со мной связаться:
 - Telegram: [@gerruda]
 - Email: fedyev@mail.ru
-- Резюме: [[Ссылка на PDF или HH.ru](https://hh.ru/resume/f995a67cff1134953a0039ed1f6a6166696f71)]
+- Резюме: [[Ссылка на HH.ru](https://hh.ru/resume/f995a67cff1134953a0039ed1f6a6166696f71)]
