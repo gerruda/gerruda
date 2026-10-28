@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет! 👋 Я [Петр]
 
-<!--
-**gerruda/gerruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior QA Engineer → Mid-level Golang Developer**
 
-Here are some ideas to get you started:
+Я создаю надежные, хорошо протестированные и масштабируемые веб-сервисы и Telegram-боты на Go. Мой бэкграунд в QA помогает мне писать код, который легко поддерживать, покрывать тестами и деплоить без сюрпризов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мой стек:
+- **Языки:** Go (Golang), SQL, Bash
+- **Фреймворки/Библиотеки:** Gin / Fiber / Echo, `pgx`, `telegram-bot-api`
+- **Инфраструктура:** Docker, Docker Compose, PostgreSQL, GitHub Actions (CI/CD)
+- **QA в разработке:** Unit/Integration тесты (`testify`), моки, линтеры (golangci-lint)
+
+### 🚀 Текущий фокус:
+Разрабатываю персонализированного Telegram-бота для фитнес-аналитики (расчет ИМТ, калорий, 1RM) с визуализацией данных (графики) и акцентом на приватность пользователя (работа только в ЛС, хранение истории).
+
+### 📫 Как со мной связаться:
+- Telegram: [@gerruda]
+- Email: fedyev@mail.ru
+- Резюме: [[Ссылка на PDF или HH.ru](https://hh.ru/resume/f995a67cff1134953a0039ed1f6a6166696f71)]
